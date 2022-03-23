@@ -5,3 +5,5 @@ To use this repository locally, in which you may test out functional API endpoin
 Express, MongoDB, Mongoose (Object Data Modeling, 'ODM'), Insomnia API client
 
 ## Demonstration
+<a href="https://drive.google.com/file/d/1QN6D-ykGJnCO-KpZNknsobd9KeW77QYK/view">Video 1</a>
+<a href="https://drive.google.com/file/d/1pJlkW46SfmX84rreBdLKYgxooFUfUltv/view">Video 2</a>
